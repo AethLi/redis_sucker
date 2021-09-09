@@ -1,0 +1,10 @@
+###
+POST http://127.0.0.1:18602/sync/sse/releaseTask
+Content-Type: application/json
+
+{
+    "themeName":"test",
+    "id":"1",
+    "messageContent":"sakdjfhakshfk",
+    "delayTime":"60"
+}
